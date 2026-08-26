@@ -44,7 +44,7 @@ CyberSecurity student at Prathyusha Engineering College, Thiruvallur. founding H
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/Bharathcyber02/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/profile/bharathkrev96)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat-square&logo=tryhackme)]([(https://tryhackme.com/p/bharathkrev96))
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/bharathkrev96)
 
 ---
 
