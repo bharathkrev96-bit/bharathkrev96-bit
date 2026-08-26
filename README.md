@@ -33,7 +33,8 @@ focus:
 mindset: "Build → Defend → Share → Improve"
 ```
 
-Cybersecurity student and founder of **Hackpsyc**, working alongside Aadhithya on research, content, and platform development. Enrolled in the **IICT AI Skills House** program.
+Second-year B.E. CSE (Cybersecurity) student at Prathyusha Engineering College, Thiruvallur. founding Hackpsyc — a cybersecurity + AI awareness brand — with Aadhithya.
+
 
 ### 🛠 Tools & Platform
 
