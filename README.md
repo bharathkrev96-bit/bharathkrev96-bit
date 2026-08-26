@@ -33,7 +33,7 @@ focus:
 mindset: "Build → Defend → Share → Improve"
 ```
 
-Second-year B.E. CSE (Cybersecurity) student at Prathyusha Engineering College, Thiruvallur. founding Hackpsyc — a cybersecurity + AI awareness brand — with Aadhithya.
+CSE (Cybersecurity) student at Prathyusha Engineering College, Thiruvallur. founding Hackpsyc — a cybersecurity + AI awareness brand — with Aadhithya.
 
 
 ### 🛠 Tools & Platform
