@@ -49,7 +49,7 @@ Cybersecurity student and founder of **Hackpsyc**, working alongside Aadhithya o
 
 ### 🚀 Projects
 
-###SecurePay Shield 🛡️
+#### 🛡️ SecurePay Shield
 AI-powered fraud detection tool for hackathon — scans phishing links, QR payment codes, and UPI IDs, then scores risk (Safe/Suspicious/High-Risk/Block) on a live dashboard for banks/investigators.
 [Live Demo ->](https://securepay-shield.vercel.app/)
 
