@@ -63,11 +63,12 @@ AI-powered fraud detection tool for hackathon — scans phishing links, QR payme
 
 [Live Demo →](https://sentinel-iota-eight.vercel.app)
 
-####🔒Password Breach Checker
+#### 🔒Password Breach Checker
+
 Python tool to check if a password has been exposed in known data breaches.
 `python`
 
-###LastCall AI
+#### LastCall AI
 AI productivity agent built for the Vibe2Ship hackathon — runs on Gemini API.
 
 `TypeScript` `Node.js` `Vite`
